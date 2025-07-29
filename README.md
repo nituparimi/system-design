@@ -22,4 +22,8 @@ Build and Deployment from Google: https://www.youtube.com/watch?v=q0KGYwNbf-0
 
 Tiny URL: https://www.youtube.com/watch?v=fMZMm_0ZhK4 , also refer to ‘grokking the system design’ for this
 
-https://www.youtube.com/watch?v=AXjmTQ8LEoI
+Trie data structure: https://www.youtube.com/watch?v=AXjmTQ8LEoI
+
+Intro to system design Tushar https://www.youtube.com/watch?v=UzLMhqg3_Wc 
+
+REST API: https://www.youtube.com/watch?v=7YcW25PHnAA
